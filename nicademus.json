@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "nicodemus",
+  "wake_word": "Nicademus",
   "author": "Jason Donahue",
   "website": "https://www.timekiller.org/",
-  "model": "nicodemus.tflite",
+  "model": "nicademus.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
