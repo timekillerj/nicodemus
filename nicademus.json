@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "Nicademus",
+  "wake_word": "nicademus",
   "author": "jdonahue@timekiller.org",
   "website": "https://github.com/timekillerj/microWakeWords",
   "model": "nicademus.tflite",
@@ -9,7 +9,7 @@
   ],
   "version": 2,
   "micro": {
-    "probability_cutoff": 0.66,
+    "probability_cutoff": 0.70,
     "sliding_window_size": 10,
     "feature_step_size": 10,
     "tensor_arena_size": 31000,
