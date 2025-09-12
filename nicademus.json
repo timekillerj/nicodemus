@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "nicademus",
+  "wake_word": "Nicademus",
   "author": "jdonahue@timekiller.org",
   "website": "https://github.com/timekillerj/microWakeWords",
   "model": "nicademus.tflite",
